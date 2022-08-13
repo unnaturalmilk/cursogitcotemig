@@ -7,3 +7,7 @@ executar o comando
 ```
 npm install
 ```
+
+```
+Load app.js
+```
