@@ -9,5 +9,5 @@ npm install
 ```
 
 ```
-Load app.js
+noad app.js
 ```
